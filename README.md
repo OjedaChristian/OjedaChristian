@@ -3,6 +3,8 @@
 
 - 🔭 Estudio desarrollo backend con Python / DJANGO / FastAPI, puedes encontrar un proyecto mío reciente en DJANGO sobre una Red Social enfocada a web: **ARTBOOK / Red Social para artistas - proyecto DJANGO/SQLite**
 
+- 🌱 Actualmente estoy aprendiendo desarrollo backend con: **FastAPI, MongoDB**
+
 - 👨‍💻 Puedes encontrar todos mis proyectos en: [https://github.com/OjedaChristian?tab=repositories](https://github.com/OjedaChristian?tab=repositories)
 
 - 💬 Tengo conocimientos en: **Python, DJANGO, SQLite, MongoDB, Bash, Linux, Windows, HTML, CSS**
