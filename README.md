@@ -7,7 +7,7 @@
 
 - 🤝 Buscando colaborar en proyectos de equipo como: **junior backend developer con Python / DJANGO**
 
-- 📄 Soy Técnico I.T en sistemas microinformáticos y redes, me apasiona el desarrollo de software, enfocado a backend, aspiro y trabajo para entender el funcionamiento interno de las cosas, a la vez que ansío aprender e investigar por mí mismo para resolver problemas, busco formar parte de equipos con un gran proyecto común. [ojeda.leg@gmail.com](ojeda.leg@gmail.com)
+- 📄 Soy Técnico I.T en sistemas microinformáticos y redes, me apasiona el desarrollo de software, enfocado a backend, aspiro y trabajo para entender el funcionamiento interno de las cosas, a la vez que ansío aprender e investigar por mí mismo para resolver problemas, quiero formar parte de equipos con un gran proyecto común: [ojeda.leg@gmail.com](ojeda.leg@gmail.com)
 
 - 👨‍💻 Puedes encontrar todos mis proyectos en: [https://github.com/OjedaChristian?tab=repositories](https://github.com/OjedaChristian?tab=repositories)
 
