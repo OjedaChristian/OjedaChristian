@@ -1,7 +1,7 @@
 <h1 align="center">Hola 👋, soy Christian</h1>
 <h3 align="center">BACKEND developer (self-taught) / Técnico I.T (sysadmin y redes locales)</h3>
 
-- 🔭 Estudio desarrollo backend con Python / DJANGO / FastAPI, puedes encontrar un proyecto mío reciente sobre una Red Social enfocada a web: [ARTBOOK / Red Social para artistas - proyecto BACKEND - DJANGO](https://github.com/OjedaChristian/ARTBOOK---Red-Social-para-artistas)
+- 🔭 Estudio desarrollo backend con Python / DJANGO / FastAPI, puedes encontrar un proyecto mío reciente sobre una Red Social enfocada a web en: [ARTBOOK / Red Social para artistas - proyecto BACKEND - DJANGO](https://github.com/OjedaChristian/ARTBOOK---Red-Social-para-artistas)
 
 - 🌱 Actualmente estoy aprendiendo desarrollo backend con: **FastAPI, MongoDB**
 
