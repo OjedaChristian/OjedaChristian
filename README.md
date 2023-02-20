@@ -1,17 +1,17 @@
 <h1 align="center">Hola 👋, soy Christian</h1>
-<h3 align="center">BACKEND developer (self-taught) / Técnico I.T (sysadmin y redes locales)</h3>
+<h3 align="center">BACKEND Developer (self-taught) / Técnico I.T (sysadmin y redes locales)</h3>
 
 - 🔭 Estudio desarrollo backend con Python / DJANGO / FastAPI, puedes encontrar un proyecto mío reciente sobre una Red Social enfocada a web en: [ARTBOOK / Red Social para artistas - proyecto BACKEND - DJANGO](https://github.com/OjedaChristian/ARTBOOK---Red-Social-para-artistas)
 
-- 🌱 Actualmente estoy aprendiendo desarrollo backend con: **DJANGO, FastAPI, MongoDB**
+- 🌱 Actualmente estoy aprendiendo desarrollo backend con: **JavaScript, Node.js, Express.js**
 
-- 🤝 Buscando colaborar en proyectos de equipo como: **junior backend developer con Python / DJANGO**
+- 🤝 Buscando colaborar en proyectos de equipo como: **Junior Backend Developer con Python / DJANGO**
 
 - 📄 Soy Técnico I.T en sistemas microinformáticos y redes, me apasiona el desarrollo de software, enfocado a backend, aspiro y trabajo para entender el funcionamiento interno de las cosas, a la vez que ansío aprender e investigar por mí mismo para resolver problemas, quiero formar parte de equipos con un gran proyecto común: [ojeda.leg@gmail.com](ojeda.leg@gmail.com)
 
 - 👨‍💻 Puedes encontrar todos mis proyectos en: [https://github.com/OjedaChristian?tab=repositories](https://github.com/OjedaChristian?tab=repositories)
 
-- 💬 Tengo conocimientos en: **Python, DJANGO, SQLite, MongoDB, Git, Bash, Linux, Windows, HTML, CSS**
+- 💬 Tengo conocimientos en: **Python, DJANGO, SQLite, PosgreSQL, Git, Bash, Linux, Windows, HTML, CSS**
 
 - 📫 Puedes contactar conmigo en: **ojeda.leg@gmail.com**
 
