@@ -3,7 +3,7 @@
 
 - 🔭 Estudio desarrollo backend con Python / DJANGO, puedes encontrar un proyecto mío reciente sobre una Red Social enfocada a web en: [ARTBOOK / Red Social para artistas - proyecto BACKEND - DJANGO](https://github.com/OjedaChristian/ARTBOOK---Red-Social-para-artistas)
 
-- 🌱 Actualmente estoy aprendiendo desarrollo backend con: **JavaScript, Node.js, Express.js**
+- 🌱 Actualmente estoy aprendiendo desarrollo backend con: **C#, ASP.Net**
 
 - 🤝 Buscando colaborar en proyectos de equipo como: **Junior Backend Developer con Python / DJANGO**
 
