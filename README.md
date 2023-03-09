@@ -11,7 +11,7 @@
 
 - 👨‍💻 Puedes encontrar todos mis proyectos en: [https://github.com/OjedaChristian?tab=repositories](https://github.com/OjedaChristian?tab=repositories)
 
-- 💬 Tengo conocimientos en: **Python, DJANGO, SQLite, PosgreSQL, Git, Bash, Linux, Windows, HTML, CSS**
+- 💬 Tengo conocimientos en: **Python, DJANGO,SQL, MySQL, SQLite3, PosgreSQL, Git, Bash, Linux, Windows, HTML, CSS**
 
 - 📫 Puedes contactar conmigo en: **ojeda.leg@gmail.com**
 
