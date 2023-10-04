@@ -1,9 +1,8 @@
-<h1 align="center">Hola 👋, soy Christian</h1>
-<h3 align="center"> Técnico I.T (sysadmin y redes locales)</h3>
+<h1 align="center">Hola 👋, soy Cristian</h1>
+<h3 align="center"> Técnico I.T </h3>
 
-- 🔭 Actualmente estoy finalizando el certificado de "Google Cybersecurity Professional Certificate" junto con el certificado CompTIA Security+ con el objetivo de trabajar como Analista de Ciberseguridad.
-
-- 📄 Técnico I.T en Sistemas Microinformáticos y Redes con formación en administración de sistemas (Linux, Windows), Soporte informático, Arquitectura de Redes, Programación con Python, SQL, Bash, Active Directory y Entornos Virtuales (VMWare, VirtualBox).
+- 📄 Actualmente realizo proyectos y experimentación en entornos virtuales para ciberseguridad; home lab con herramientas SIEM e IDS para detección y monitorización de ataques realizados desde otras máquinas virtuales en red.
+En mi tiempo libre investigo el desarrollo de scripts con Python para automatización de procesos  y  herramientas de ciberseguridad (vulnerability scanner, packet sniffer, exploits).
 
 - 👨‍💻 Puedes encontrar todos mis proyectos en: [https://github.com/OjedaChristian?tab=repositories](https://github.com/OjedaChristian?tab=repositories)
 
